@@ -1,0 +1,13 @@
+# 登录的QQ
+login_qq: 2964558839@qq.com
+authorization_code: lvtdbvkgxdpydead
+
+# 发送对象
+to_qq: 2921572176@qq.com
+
+# 需要的模板
+template:
+  - name: 章远
+    path: model1
+  - name: 白化
+    path: model2
